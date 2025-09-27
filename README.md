@@ -1,4 +1,4 @@
-# Analyse et manipulation d'un Réseau Social en Python
+# Analyse et manipulation d'un réseau social en Python
 
 Ce projet a été réalisé dans le cadre de la SAÉ S202 du BUT Informatique (IUT Villetaneuse, Université Sorbonne Paris Nord). 
 
